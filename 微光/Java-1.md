@@ -62,3 +62,88 @@ public class jisuanqi {
 ### 运行截图
 ![](.\QQ截图20210911094516.png)
 ## 第三题
+### 困难
+- 学习Java的File类和IO流相关知识
+- 循环计算，对下一次计算第一个数的处理
+### 我遇到的一些问题
+- 创建OutPutStream后导致data文件清零
+- 使用fin.close()报错显示无法访问。
+### 运行截图
+![](.\QQ截图20210914134911.png)
+### 代码
+```java
+import java.util.*;
+import java.io.*;
+
+public class JiSuanqiPro {
+
+    public static void main(String[] args) throws IOException {
+        File f = new File("D:\\Code\\Java\\Data.txt");
+        Scanner cin = new Scanner(System.in);
+        FileInputStream fin = new FileInputStream(f);
+        int i = fin.read();
+        while (i != -1) {
+            System.out.print((char) i);
+            i = fin.read();
+        }
+        int a = 0;
+        int b = 0;
+        char c = 0;
+        String s = "";
+        String result = "";
+        boolean flag = false;
+        while (true) {
+            if (flag) {
+                a = Integer.parseInt(s);
+                flag = false;
+            } else
+                a = cin.nextInt();
+
+            s = "";
+            s = cin.next();
+            c = (char) s.charAt(0);
+
+            b = cin.nextInt();
+
+            result = "";
+            if (c == '+') {
+                System.out.println(a + " " + c + " " + b + " " + "=" + (a + b));
+                result = (a + " " + c + " " + b + " " + "=" + (a + b));
+
+            }
+            if (c == '-') {
+                System.out.println(a + " " + c + " " + b + " " + "=" + (a - b));
+                result = (a + " " + c + " " + b + " " + "=" + (a - b));
+
+            }
+            if (c == '*') {
+                System.out.println(a + " " + c + " " + b + " " + "=" + a * b);
+                result = (a + " " + c + " " + b + " " + "=" + (a * b));
+            }
+            if (c == '/')
+                if (b * (a / b) != a) {
+                    System.out.println(a + " " + c + " " + b + " " + "=" + a / b + "......" + (a - b * (a / b)));
+                    result = (a + " " + c + " " + b + " " + "=" + a / b + "......" + (a - b * (a / b)));
+                } else {
+                    System.out.println(a + " " + c + " " + b + " " + "=" + a / b);
+                    result = (a + " " + c + " " + b + " " + "=" + a / b);
+                }
+            if (c == '%') {
+                System.out.println(a + " " + c + " " + b + " " + "=" + (a - b * (a / b)));
+                result = (a + " " + c + " " + b + " " + "=" + (a - b * (a / b)));
+            }
+            s = "";
+            s = cin.next();
+
+            if (s.charAt(0) == 's') {
+                FileWriter fuck = new FileWriter("D:\\Code\\Java\\Data.txt");
+                fuck.write(result);
+                fuck.close();
+                return;
+            } else
+                flag = true;
+        }
+    }
+}
+
+```
