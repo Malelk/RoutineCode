@@ -93,7 +93,7 @@ int main()
 {
     char s[10086];
     memset(s, 0, sizeof(s));
-    cout << "Please enter numbers separated by commas" << endl;
+    cout << "输入数字，以逗号隔开，以回车结束" << endl;
     gets(s);
     cout << solve(s);
     return 0;
