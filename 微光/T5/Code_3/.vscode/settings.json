@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\.m2\\localRepository\\com\\alibaba\\fastjson\\1.2.47\\fastjson-1.2.47.jar"
+    ]
+}
