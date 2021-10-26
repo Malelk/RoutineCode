@@ -1,6 +1,7 @@
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
+import lizinuo.annotation.*;
 
 public class Json {
     public static Object obj;
@@ -21,6 +22,11 @@ public class Json {
         Field[] fs = obj.getClass().getDeclaredFields();
         for (Field f : fs) {
             /**
+             * 判断是否忽略
+             */
+            if (f.isAnnotationPresent(JsonIgnore.class))
+                continue;
+            /**
              * 如果是基础类型的情况
              */
             if (isBase(f)) {
@@ -32,9 +38,13 @@ public class Json {
              * 如果是数组的情况
              */
             if (isArr(f)) {
-
+                // System.out.println("te");
                 Method tmp = gMethod(f, obj);
-                s.append("\"" + f.getName() + "\": [");
+                if (f.isAnnotationPresent(JsonProperty.class)) {
+
+                    s.append("\"" + f.getAnnotation(JsonProperty.class).name() + "\": [");
+                } else
+                    s.append("\"" + f.getName() + "\": [");
                 if (tmp.invoke(obj).getClass() == int[].class) {
                     int[] is = (int[]) tmp.invoke(obj);
                     for (int i = 0; i < is.length; i++) {
@@ -60,7 +70,10 @@ public class Json {
             /**
              * 若属性为对象，进行递归
              */
-            s.append("\"" + f.getName() + "\": ");
+            if (f.isAnnotationPresent(JsonProperty.class)) {
+                s.append("\"" + f.getAnnotation(JsonProperty.class).name() + "\": ");
+            } else
+                s.append("\"" + f.getName() + "\": ");
             Method tmp = gMethod(f, obj);
             Work(tmp.invoke(obj), s);
             s.append(",\n");
@@ -102,7 +115,11 @@ public class Json {
      */
     private static void jsonBase(Field f, StringBuffer s, Object obj)
             throws IllegalArgumentException, IllegalAccessException, InvocationTargetException {
-        s.append("\"" + f.getName() + "\": "); // 获得变量名
+        if (f.isAnnotationPresent(JsonProperty.class)) {
+
+            s.append("\"" + f.getAnnotation(JsonProperty.class).name() + "\": ");
+        } else
+            s.append("\"" + f.getName() + "\": "); // 获得变量名
 
         Method tmp = gMethod(f, obj);
         s.append("\"" + tmp.invoke(obj) + "\",\n");

@@ -1,1 +1,1 @@
-printf("cao\n");
+cnt<26

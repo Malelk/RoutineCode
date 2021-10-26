@@ -1,11 +1,16 @@
 package lizinuo.icu;
-
+import lizinuo.annotation.JsonIgnore;
+import lizinuo.annotation.JsonProperty;
 public class Cat {
+    @JsonIgnore
     private String name;
     private int age;
+   // @JsonIgnore
     private boolean hasOwner;
     private String breed;
+    @JsonProperty(name="nengLi")
     private String[] abilities =null;
+    @JsonProperty(name = "zhuRen")
     private Owner owner;
     Cat() {
     };

@@ -2,11 +2,8 @@
 int main()
 {
 	int num1, denom1, num2, denom2, result_num, result_denom;
-
-	printf("Enter first fraction:");
 	scanf("%d/%d", &num1, &denom1);
-    scanf("+");
-	printf("Enter second fraction:");
+scanf("+");
 	scanf("%d/%d", &num2, &denom2);
 
 	result_num = num1*denom2 + num2*denom1;
