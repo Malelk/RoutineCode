@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f937e4d7-1d14-4c24-95da-4e78f5807968" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Java/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/t5/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/t5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/t5/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/t5/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/t5/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/t5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/t5/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/t5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/t5/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/t5/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/t5/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/t5/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/t5/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/t5/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/t5/src/main/java/icu/lizinuo/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/t5/src/main/java/icu/lizinuo/JsonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/t5/src/test/java/icu/lizinuo/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/t5/src/test/java/icu/lizinuo/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/t5/target/classes/icu/lizinuo/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/t5/target/classes/icu/lizinuo/JsonTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/t5/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/t5/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/t5/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/t5/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/t5/target/test-classes/icu/lizinuo/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/try/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/try/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/try/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/try/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/try/src/main/java/com/lzn/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/try/src/test/java/com/lzn/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/try/src/test/java/com/lzn/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/try/target/classes/com/lzn/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/try/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/try/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/try/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java/try/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2021091201012-李子诺-考核-Java-04.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../J44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../J45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2021091201012-李子诺-考核-Java-05.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/bin/icu/uestc/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/bin/icu/uestc/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/JSON.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/JSONArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/JSONAware.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/JSONException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/JSONObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/JSONPObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/JSONPath$ArrayAccessSegement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/JSONPath$CombineSegement$Operator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/JSONPath$CombineSegement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/JSONPath$DoubleOpSegement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/JSONPath$Filter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/JSONPath$FilterGroup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/JSONPath$FilterSegement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/JSONPath$IntBetweenSegement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/JSONPath$IntInSegement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/JSONPath$IntObjInSegement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/JSONPath$IntOpSegement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/JSONPath$JSONPathParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/JSONPath$MatchSegement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/JSONPath$MultiIndexSegement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/JSONPath$MultiPropertySegement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/JSONPath$NotNullSegement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/JSONPath$NullSegement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/JSONPath$Operator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/JSONPath$PropertySegement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/JSONPath$RangeSegement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/JSONPath$RlikeSegement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/JSONPath$Segement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/JSONPath$SizeSegement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/JSONPath$StringInSegement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/JSONPath$StringOpSegement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/JSONPath$ValueSegment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/JSONPath$WildCardSegement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/JSONPath.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/JSONPathException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/JSONReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/JSONStreamAware.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/JSONStreamContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/JSONWriter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/PropertyNamingStrategy$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/PropertyNamingStrategy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/TypeReference$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/TypeReference.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/annotation/JSONCreator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/annotation/JSONField.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/annotation/JSONPOJOBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/annotation/JSONType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/asm/ByteVector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/asm/ClassReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/asm/ClassWriter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/asm/FieldWriter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/asm/Item.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/asm/Label.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/asm/MethodCollector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/asm/MethodVisitor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/asm/MethodWriter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/asm/Opcodes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/asm/Type.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/asm/TypeCollector$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/asm/TypeCollector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/parser/DefaultExtJSONParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/parser/DefaultJSONParser$ResolveTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/parser/DefaultJSONParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/parser/Feature.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/parser/JSONLexer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/parser/JSONLexerBase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/parser/JSONReaderScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/parser/JSONScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/parser/JSONToken.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/parser/ParseContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/parser/ParserConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/parser/SymbolTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/parser/deserializer/ASMDeserializerFactory$Context.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/parser/deserializer/ASMDeserializerFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/parser/deserializer/AbstractDateDeserializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/parser/deserializer/ArrayListTypeFieldDeserializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/parser/deserializer/AutowiredObjectDeserializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/parser/deserializer/ContextObjectDeserializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/parser/deserializer/DefaultFieldDeserializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/parser/deserializer/EnumDeserializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/parser/deserializer/ExtraProcessable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/parser/deserializer/ExtraProcessor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/parser/deserializer/ExtraTypeProvider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/parser/deserializer/FieldDeserializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/parser/deserializer/FieldTypeResolver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/parser/deserializer/JSONPDeserializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/parser/deserializer/JavaBeanDeserializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/parser/deserializer/JavaObjectDeserializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/parser/deserializer/Jdk8DateCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/parser/deserializer/MapDeserializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/parser/deserializer/NumberDeserializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/parser/deserializer/ObjectDeserializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/parser/deserializer/OptionalCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/parser/deserializer/ParseProcess.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/parser/deserializer/PropertyProcessable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/parser/deserializer/PropertyProcessableDeserializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/parser/deserializer/ResolveFieldDeserializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/parser/deserializer/SqlDateDeserializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/parser/deserializer/StackTraceElementDeserializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/parser/deserializer/ThrowableDeserializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/parser/deserializer/TimeDeserializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/ASMSerializerFactory$Context.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/ASMSerializerFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/AdderSerializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/AfterFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/AnnotationSerializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/AppendableSerializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/ArraySerializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/AtomicCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/AutowiredObjectSerializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/AwtCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/BeanContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/BeforeFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/BigDecimalCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/BigIntegerCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/BooleanCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/CalendarCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/CharArrayCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/CharacterCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/ClobSeriliazer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/CollectionCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/ContextObjectSerializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/ContextValueFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/DateCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/DoubleSerializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/EnumSerializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/EnumerationSerializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/FieldSerializer$RuntimeSerializerInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/FieldSerializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/FloatCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/GuavaCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/IntegerCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/JSONAwareSerializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/JSONLibDataFormatSerializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/JSONSerializable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/JSONSerializableSerializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/JSONSerializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/JSONSerializerMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/JavaBeanSerializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/LabelFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/Labels$DefaultLabelFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/Labels.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/ListSerializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/LongCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/MapSerializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/MiscCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/NameFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/ObjectArrayCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/ObjectSerializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/PascalNameFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/PrimitiveArraySerializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/PropertyFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/PropertyPreFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/ReferenceCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/SerialContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/SerializeBeanInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/SerializeConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/SerializeFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/SerializeFilterable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/SerializeWriter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/SerializerFeature.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/SimpleDateFormatSerializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/SimplePropertyPreFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/StringCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/ToStringSerializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/serializer/ValueFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/support/config/FastJsonConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/support/hsf/HSFJSONUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/support/hsf/MethodLocator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/support/jaxrs/FastJsonAutoDiscoverable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/support/jaxrs/FastJsonFeature.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/support/jaxrs/FastJsonProvider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/support/retrofit/Retrofit2ConverterFactory$RequestBodyConverter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/support/retrofit/Retrofit2ConverterFactory$ResponseBodyConverter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/support/retrofit/Retrofit2ConverterFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/support/spring/FastJsonContainer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/support/spring/FastJsonHttpMessageConverter$Spring4TypeResolvableHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/support/spring/FastJsonHttpMessageConverter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/support/spring/FastJsonHttpMessageConverter4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/support/spring/FastJsonJsonView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/support/spring/FastJsonRedisSerializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/support/spring/FastJsonViewResponseBodyAdvice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/support/spring/FastJsonpHttpMessageConverter4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/support/spring/FastJsonpResponseBodyAdvice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/support/spring/FastjsonSockJsMessageCodec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/support/spring/GenericFastJsonRedisSerializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/support/spring/JSONPResponseBodyAdvice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/support/spring/MappingFastJsonValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/support/spring/PropertyPreFilters$MySimplePropertyPreFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/support/spring/PropertyPreFilters.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/support/spring/annotation/FastJsonFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/support/spring/annotation/FastJsonView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/support/spring/annotation/ResponseJSONP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/support/spring/messaging/MappingFastJsonMessageConverter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/support/springfox/SwaggerJsonSerializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/util/ASMClassLoader$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/util/ASMClassLoader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/util/ASMUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/util/AntiCollisionHashMap$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/util/AntiCollisionHashMap$Entry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/util/AntiCollisionHashMap$EntryIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/util/AntiCollisionHashMap$EntrySet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/util/AntiCollisionHashMap$HashIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/util/AntiCollisionHashMap$KeyIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/util/AntiCollisionHashMap$KeySet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/util/AntiCollisionHashMap$ValueIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/util/AntiCollisionHashMap$Values.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/util/AntiCollisionHashMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/util/Base64.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/util/FieldInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/util/IOUtils$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/util/IOUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/util/IdentityHashMap$Entry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/util/IdentityHashMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/util/JavaBeanInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/util/ParameterizedTypeImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/util/ServiceLoader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/util/ThreadLocalCache.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/util/TypeUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/util/UTF8Decoder$Surrogate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code/src/icu/uestc/util/UTF8Decoder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../T51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../T52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../T53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../T54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../T55.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../icoding/3-1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../icoding/你妈.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021091201012-李子诺-考核-Java-04.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../2021091201012-李子诺-考核-Java-04.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../T4/src/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../T4/src/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../T4/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../T4/src/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../T4/src/Count.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../T4/src/Count.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../T4/src/Count.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../T4/src/Count.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
+  <component name="ProjectId" id="1yoTH6JWcN4yLPojp8T8BvQsPAK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Fuck" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="icu.lzn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="icu.lzn" />
+      <option name="MAIN_CLASS_NAME" value="icu.lzn.AppTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AppTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="f937e4d7-1d14-4c24-95da-4e78f5807968" name="更改" comment="" />
+      <created>1632916853001</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632916853001</updated>
+    </task>
+    <servers />
+  </component>
+</project>
