@@ -4,20 +4,8 @@
 #include <stdbool.h>
 char word[1005][105],in_word[1005][105];
 
-bool cmp(char *c1, char *c2)//判断c1是否小于c2
+bool cmp(char *c1, char *c2)
 {
-    //printf("true");
-    // for (int i = 0; i < strlen(c1); i++)
-    // {
-    //     if ('a' <= c1[i] && c1[i] <= 'z')
-    //         c1[i] = 'A' + c1[i] - 'a';
-    // }
-    // for (int i = 0; i < strlen(c2); i++)
-    // {
-    //     if ('a' <= c2[i] && c2[i] <= 'z')
-    //         c2[i] = 'A' + c2[i] - 'a';
-    // }
-    //printf("%s\n",c2);
     int l1 = strlen(c1), l2 = strlen(c2);
     int now = 0,char_1,char_2;
     while((now<l1)&&(now<l2)) {
@@ -44,7 +32,6 @@ void sort(int l, int r, bool (*cmp)(char *,char *))
         strcpy(tmp,word[l]);
         strcpy(word[l],word[r]);
         strcpy(word[r],tmp);
-   //     swap(word[l],word[r]);
         while(l<r&&(cmp(word[l],word[r]))) 
         {
             l++;
@@ -64,15 +51,7 @@ int main()
     while (scanf("%s", word[++cnt]))
         if (strlen(word[cnt]) == 4)
             break;
-    // char c1[5]="abcd";
-    // char c2[5]="abba";
-    // printf("%d",cmp(c1,c2));
     sort(1, cnt, cmp);
-   // printf("%d\n",cnt);
-    // for(int i =1;i<=cnt;i++) 
-    // {
-    //     printf("%s\n",word[i]);
-    // }
-    printf("%s %s",word[1],word[cnt]);
+    printf("Smallest word: %s\nLargest word: %s\n",word[1],word[cnt]);
     return 0;
 }
